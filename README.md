@@ -15,14 +15,13 @@ Bem-vindos(as). Este repositório foi criado com o propósito de estudo. Vale re
 </p> <p align="center"> <sup>Foto de Imagge </sup> </p>
 
 
-
 ## **Previsão de Risco de Câncer Cervical aplicando Auto Machine Learning**
 
 O **câncer cervical**, também conhecido como câncer do colo do útero, é uma condição maligna que afeta mulheres e é causada pelo vírus do papiloma humano (HPV). Fatores como relações sexuais sem proteção, múltiplos parceiros sexuais, início precoce das relações sexuais e infecção pelo HIV aumentam o risco de contrair HPV e desenvolver câncer cervical. Outros fatores, como histórico familiar de câncer cervical, tabagismo e doenças sexualmente transmissíveis, também influenciam. Embora seja comum entre as mulheres, o câncer cervical é considerado um tipo de câncer raro, com menos de 150 mil casos por ano no Brasil.
 
 A detecção precoce é crucial para o tratamento eficaz do câncer cervical. No entanto, a detecção requer exames médicos e, quanto mais cedo o câncer for detectado, maiores serão as chances de cura. Diante disso, o uso de técnicas avançadas, como o Machine Learning, pode ser benéfico para prever riscos e auxiliar nos diagnósticos.
 
-# **Base de Dados**
+## **Base de Dados**
 
 Os dados utilizados nesse projeto podem ser obtidos [aqui](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29). A base de dados contém 858 linhas e 36 colunas.
 
